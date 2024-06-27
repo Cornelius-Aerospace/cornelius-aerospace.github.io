@@ -21,10 +21,6 @@ widget3:
   url: "https://www.youtube.com/channel/UC06OHpXn2_ql_2xGfvBd0jA"
   image: widget-github-303x182.jpg
   text: "<em>YouTube</em> is where we post our footage, but click on the button below to join our mailing list, where we send out information about changes, launches and project progress before updating youtube or the site. It's like an insider view - but completly free (and we will never spam you or share your details, we wish the people who choose to do that a bag of dicks and a bad rocket flight!)"
-  callforaction:
-    url: https://mailbob.io/u/corneliusaerospace
-    text: Keep me upto date!
-    style: alert
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -35,6 +31,11 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
+callforaction:
+  url: https://mailbob.io/u/corneliusaerospace
+  text: Keep me upto date!
+  style: alert
+
 
 permalink: /index.html
 #
