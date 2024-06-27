@@ -16,12 +16,15 @@ widget2:
   title: "What are we working on and what are our goals?"
   url: "http://corneliusaerospace.co.uk/info"
   text: "<em>Cornelius Aerospace</em> is heavily focoused on pushing the boundaries of amature-rocketry through iterative design, and <b> LOTS</b> and <b>LOTs</b> of <s>failures</s> <i>lessons</i> - we embrace (and swear at, in the moment) failures to extract as much progress out of our flights! <br/>1. Consutrction Methods<br/>2. FLight computer optimisation (small, dainty and packed with <b><i>DATA!</i></b>).<br/>3. Practising with weather balloons to explore the feasability of a rocketoon or a similar system (because propellant is <i>EXPENSIVE</i>)<br/>4. Experement with various designs (boosters, staging, larger motors, praying and licking special crystals... all the norm really) <br/>5. Optimising for altitude after other core features are refined, not much point getting to 10km and loosing the £1000 rocket that got there"
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/imOptimising for altitude (after other core features are refined)ages/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Keep up to date with our launches on the website, socials but best of all <b>YouTube</b> (our main platform)"
   url: "https://www.youtube.com/channel/UC06OHpXn2_ql_2xGfvBd0jA"
   image: widget-github-303x182.jpg
-  text: "<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works."
+  text: "<em>YouTube</em> is where we post our footage, but click on the button below to join our mailing list, where we send out information about changes, launches and project progress before updating youtube or the site. It's like an insider view - but completly free (and we will never spam you or share your details, we wish the people who choose to do that a bag of dicks and a bad rocket flight!)"
+  callforaction:
+    url: https://mailbob.io/u/corneliusaerospace
+    text: Keep me upto date!
+    style: alert
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -32,10 +35,7 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: https://mailbob.io/u/corneliusaerospace
-  text: Let me know about launches, project milestones, crashes, crashes and CRASHES ›
-  style: alert
+
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
