@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "What are we working on and what are our goals?"
   url: "http://corneliusaerospace.co.uk/info"
-  text: "<em>Cornelius Aerospace</em> is heavily focoused on pushing the boundaries of amature-rocketry through iterative design, and <b> LOTS</b> and <b>LOTs</b> of <s>failures</s> <i>lessons</i> - we embrace (and swear at, in the moment) failures to extract as much progress out of our flights! <br/>1. Consutrction Methods<br/>2. FLight computer optimisation (small, dainty and packed with <b><i>DATA!</i></b>).<br/>3. Practising with weather balloons to explore the feasability of a rocketoon or a similar system (because propellant is <i>EXPENSIVE</i>)<br/>4. Experement with various designs (boosters, staging, larger motors, praying and licking special crystals... all the norm really) <br/>5. Optimising for altitude after other core features are refined, not much point getting to 10km and loosing the £1000 rocket that got there"
+  text: "<em>Cornelius Aerospace</em> is heavily focoused on pushing the boundaries of amature-rocketry through iterative design, and <b> LOTS</b> and <b>LOTs</b> of <s>failures</s> <i>lessons</i> - we embrace (and swear at, in the moment) failures to extract as much progress out of our flights! Click to read more about our way of working and broad goals!
 widget3:
   title: "Keep up to date with our launches on the website, socials but best of all <b>YouTube</b> (our main platform)"
   url: "https://www.youtube.com/channel/UC06OHpXn2_ql_2xGfvBd0jA"
@@ -37,6 +37,8 @@ callforaction:
   style: alert
 
 
+
+
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
@@ -44,10 +46,3 @@ permalink: /index.html
 #
 homepage: true
 ---
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
