@@ -11,4 +11,4 @@ permalink           : "/getting-started/"
 
 # Meet the *team*
 
-_*TODO*_
+_*TODO write this*_

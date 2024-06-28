@@ -2,9 +2,17 @@
   url: "/"
   side: left
 
-- title: Meet the team
-  url: "/meet-the-team/"
+- title: About
+  url: "/about/"
   side: left
+  dropdown:
+  - title: Meet the team
+    url: "/meet-the-team/"
+    side: left
+  - title: Our history
+    url: "/our-history/"
+    side: left
+
 
 - title: "Templates"
   url: "/design/"
