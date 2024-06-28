@@ -7,7 +7,7 @@
 
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: earth-from-space.jpg
 widget1:
   title: "Blog & Updates"
   url: "http://corneliusaerospace.co.uk/blog"
