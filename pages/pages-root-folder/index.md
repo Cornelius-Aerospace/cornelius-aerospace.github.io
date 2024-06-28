@@ -6,8 +6,13 @@
 #
 
 layout: frontpage
+
 header:
-  image_fullwidth: earth-from-space.jpg
+    title: Touching space; One leap at a time
+    background-color: "#EFC94C;"
+#    pattern: pattern_concrete.jpg
+    image_fullwidth: earth-from-space.jpg
+    
 widget1:
   title: "Blog & Updates"
   url: "http://corneliusaerospace.co.uk/blog"
