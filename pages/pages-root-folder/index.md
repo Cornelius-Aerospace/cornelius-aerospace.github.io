@@ -16,7 +16,7 @@ widget1:
 widget2:
   title: "What are we working on and what are our goals?"
   url: "http://corneliusaerospace.co.uk/info"
-  text: "<em>Cornelius Aerospace</em> is heavily focoused on pushing the boundaries of amature-rocketry through iterative design, and <b> LOTS</b> and <b>LOTs</b> of <s>failures</s> <i>lessons</i> - we embrace (and swear at, in the moment) failures to extract as much progress out of our flights! Click to read more about our way of working and broad goals!
+  text: "<em>Cornelius Aerospace</em> is heavily focoused on pushing the boundaries of amature-rocketry through iterative design, and <b> LOTS</b> and <b>LOTs</b> of <s>failures</s> <i>lessons</i> - we embrace (and swear at, in the moment) failures to extract as much progress out of our flights! Click to read more about our way of working and broad goals!"
 widget3:
   title: "Keep up to date with our launches on the website, socials but best of all <b>YouTube</b> (our main platform)"
   url: "https://www.youtube.com/channel/UC06OHpXn2_ql_2xGfvBd0jA"
