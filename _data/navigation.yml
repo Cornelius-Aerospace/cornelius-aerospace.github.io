@@ -1,9 +1,9 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: Meet the team
+  url: "/meet-the-team/"
   side: left
 
 - title: "Templates"
