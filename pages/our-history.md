@@ -37,3 +37,5 @@ Leah realised she was incapble of handling all the elements of a amature space-p
 Leah was in a long-term relationship with **Seth**, the changing factor. She decided to invite him to a rocket launch with the much loved, long-time casper. Go to our blog post on that for some great photos and videos of the launches that day (including a 3D printed rocket that was so underextuded i had to cover it in expoxy and then hold the nosecone on with plaster tape; It _flew_...? in a spiral and writhed. We did rever it so go check that out. It is linked at the bottom of this page **TODO**)
 
 _*TODO continue this page*_
+
+---
