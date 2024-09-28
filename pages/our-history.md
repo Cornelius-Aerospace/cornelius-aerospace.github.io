@@ -6,7 +6,7 @@ subheadline         : "Where did it all start?"
 teaser              : "Cornelius Aerospace has a long and confusing history, one i hope will grow to be even more meaningfull and impactful. Learn about it here"
 header:
    image_fullwidth  : "header_homepage_13.jpg"
-permalink           : "/our-history.md/"
+permalink           : "/our-history/"
 ---
 
 # Our history: How did it all start
